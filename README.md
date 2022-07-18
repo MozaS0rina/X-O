@@ -1,2 +1,2 @@
 # X-O/ Tic-tac-toe
-atestat
+atestat-joc
